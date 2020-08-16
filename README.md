@@ -17,4 +17,6 @@ I have found that [Krita](https://krita.org/en/) is a fantastic tool to use in m
 
 ## Resources
 
-List of resources goes here
+* [Krita scripting](https://kritascripting.wordpress.com/)
+* [Introduction to Python Scripting](https://docs.krita.org/en/user_manual/python_scripting/introduction_to_python_scripting.html)
+* KDE API Reference, [Krita.cpp Source File](https://api.kde.org/appscomplete-api/krita-apidocs/libs/libkis/html/Krita_8cpp_source.html)
