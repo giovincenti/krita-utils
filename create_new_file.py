@@ -6,7 +6,7 @@ newDoc = Krita.instance().createDocument(1600, 1200, "Test", "RGBA", "U8", "", 1
 # The new document has a transparent background, and here I set it to white (so I can write on it)
 newDoc.setBackgroundColor(QColor(255, 255, 255, 255))
 
-# I want to save the document right away, but it is not working yet
+# I want to save the document right away, but it is not working yet as expected - look into setFileName() and then save()
 newDoc.saveAs("/home/ubprof/Desktop/test.kra")
 # newDoc.save()
 
