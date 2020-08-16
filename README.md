@@ -11,9 +11,14 @@ I have found that [Krita](https://krita.org/en/) is a fantastic tool to use in m
 
 ## TODO
 
-* Create a new document and save it immediately with the name format 2020-12-25-00-00.kra
+I am currently working on the following scripts, which are meant to automate my workflow when teaching online:
+
+* Create a new document and save it immediately with the name format 2020-12-25-02-46.kra
+  * I don't have to worry about the consistency of the naming, and halting lecture so that I can create a new page for notes
 * Save all active documents with the original file name and export them automatically to PNG
+  * With this system, I will be able to save all active pages of notes, and convert them to a file format that students can use
 * Set the brush size and eraser size at startup
+  * Every time I start Krita, the size of the brush and eraser are set to the original default (which does not work for me)
 
 ## Resources
 
